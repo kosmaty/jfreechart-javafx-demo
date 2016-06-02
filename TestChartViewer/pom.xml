@@ -5,7 +5,7 @@
 	<groupId>de.psi</groupId>
 	<artifactId>jfreechart2-test</artifactId>
 	<packaging>jar</packaging>
-	<version>2.0-pre1</version>
+	<version>1.0-JAVAFX-SNAPSHOT</version>
 	<name>JFreeChart-Test</name>
 
 	<build>
