@@ -42,7 +42,7 @@ import javafx.scene.text.FontWeight;
 
 public class SampleController
 {
-	private static ChartTheme currentTheme = new StandardChartTheme("JFree");
+	private static ChartTheme currentTheme = new StandardChartTheme("JFree", true);
 
 	@FXML
 	private BorderPane borderPane;
